@@ -1,0 +1,73 @@
+[
+  {
+    "id": "parent",
+    "title": "Reduce risk of chronic",
+    "thumb": "image-link",
+    "children": [
+      {
+        "id": "child-one",
+        "title": "What is your weight loss goal?",
+        "questions": [
+          {
+            "id": "child-two",
+            "question": "Lose 1-10 kg for good",
+            "type": "button",
+            "questions": [
+              {
+                "id": "child-three",
+                "question": "Lose 1-10 kg for good",
+                "type": "button",
+                "questions": [
+                  {
+                    "id": "child-four",
+                    "question": "Lose 1-10 kg for good",
+                    "type": "button",
+                    "questions": [
+                      {
+                        "id": "child-five",
+                        "question": "Lose 1-10 kg for good",
+                        "type": "button"
+                      },
+                      {
+                        "id": "child-five-2",
+                        "question": "Lose 11-20 kg for good",
+                        "type": "button"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "child-four-2",
+                    "question": "Lose 11-20 kg for good",
+                    "type": "button"
+                  }
+                ]
+              },
+              {
+                "id": "child-three-2",
+                "question": "Lose 11-20 kg for good",
+                "type": "button"
+              }
+            ]
+          },
+          {
+            "id": "child-two-2",
+            "question": "Lose 11-20 kg for good",
+            "type": "button",
+            "questions": [
+              {
+                "id": "",
+                "question": "Lose 1-10 kg for good",
+                "type": "button"
+              },
+              {
+                "id": "",
+                "question": "Lose 11-20 kg for good",
+                "type": "button"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
